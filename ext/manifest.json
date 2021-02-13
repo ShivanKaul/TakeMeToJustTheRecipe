@@ -1,0 +1,18 @@
+{
+  "name": "Take Me To Just The Recipe",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "description": "Open this page in justtherecipe.app",
+  "browser_action": {
+    "name": "Click to open page in justtherecipe.app"
+  },
+  "background": {
+    "scripts": [
+      "dist/background.js"
+    ],
+    "persistent": true
+  },
+  "permissions": [
+    "activeTab"
+  ]
+}
