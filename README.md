@@ -1,11 +1,11 @@
 # README
 
-Get just the recipe (and none of the lengthy life story) from a recipe website. Once installed, simply click the extension icon (a cute little whisk) and it'll open the current page in [justtherecipe.app](justtherecipe.app).
-Credit for [justtherecipe.app](justtherecipe.app) goes to Reddit user [u/doppio](https://www.reddit.com/user/doppio/). This extension just opens the current page on [justtherecipe.app](justtherecipe.app).
+Get just the recipe (and none of the lengthy life story) from a recipe website. Once installed, simply click the extension icon (a cute little whisk) and it'll open the current page in https://www.justtherecipe.app.
+Credit for https://www.justtherecipe.app goes to Reddit user [u/doppio](https://www.reddit.com/user/doppio/). This extension just opens the current page on https://www.justtherecipe.app.
 
 Icons made by [Freepik](https://www.freepik.com) from [www.flaticon.com](https://www.flaticon.com/).
 
-I'm not affiliated with the creator of [justtherecipe.app](justtherecipe.app), just wanted an easy way to access the excellent website.
+I'm not affiliated with the creator of https://www.justtherecipe.app, just wanted an easy way to access the excellent website.
 
 
 ## To install
