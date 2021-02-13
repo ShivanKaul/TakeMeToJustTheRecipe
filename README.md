@@ -7,6 +7,15 @@ Icons made by [Freepik](https://www.freepik.com) from [www.flaticon.com](https:/
 
 I'm not affiliated with the creator of justtherecipe.app, just wanted an easy way to access the excellent website.
 
+## To install
+### From Chrome Web Store
+(Coming soon, in review)
+
+### From GitHub
+1. Download `takemetojusttherecipe.zip` from https://github.com/ShivanKaul/TakeMeToJustTheRecipe/releases/latest. Direct link: https://github.com/ShivanKaul/TakeMeToJustTheRecipe/releases/download/v0.1/takemetojusttherecipe.zip
+2. Extract extension.
+3. [Follow the instructions to load into Chrome.](https://www.smashingmagazine.com/2017/04/browser-extension-edge-chrome-firefox-opera-brave-vivaldi/#google-chrome-opera-vivaldi)
+
 ## Develop
 `npm install` to install `browserify`.
 `npm run build` to build the extension.
