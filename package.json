@@ -6,9 +6,11 @@
   "scripts": {
     "deps": "npm install",
     "stage": "mkdir ext/dist || echo Dist already exists.",
-    "clean": "rm -rf ext/dist",
-    "bundle": "browserify -o ext/dist/background.js ext/src/background.js",
-    "build": "npm run clean && npm run stage && npm run bundle"
+    "clean": "rm -rf ext/dist && rm -f takemetojusttherecipe.zip",
+    "bundle": "browserify -o ext/dist/background.js src/background.js",
+    "build": "npm run stage && npm run bundle",
+    "rebuild": "npm run clean && npm run build",
+    "pkg": "npm run rebuild && zip -r takemetojusttherecipe.zip ext/dist ext/manifest.json ext/assets"
   },
   "author": "Shivan Sahib",
   "license": "MIT",
