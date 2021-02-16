@@ -10,7 +10,7 @@ I'm not affiliated with the creator of https://www.justtherecipe.app, just wante
 
 ## To install
 ### From Chrome Web Store
-(Coming soon, in review)
+https://chrome.google.com/webstore/detail/take-me-to-just-the-recip/deohhololgmgabindpalajcieahnknde
 
 ### From GitHub
 1. Download `takemetojusttherecipe.zip` from https://github.com/ShivanKaul/TakeMeToJustTheRecipe/releases/latest. Direct link: https://github.com/ShivanKaul/TakeMeToJustTheRecipe/releases/download/v0.1/takemetojusttherecipe.zip
